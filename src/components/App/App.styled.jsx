@@ -6,5 +6,3 @@ export const Container = styled.div`
   align-items: center;
   max-width: 1200px;
 `;
-
-//
